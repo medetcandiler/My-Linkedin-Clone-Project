@@ -1,0 +1,130 @@
+.body{
+    background-color: #f3f2ef;
+}
+
+input.form-control.searche{
+    width: 280px;
+    max-height: 34px;
+    font-size: 14px;
+    background-color: #eef3f8;
+    padding: 0 0.8rem 0 25px;
+    transition: all 0.2s ease-out
+}
+
+input.form-control.searche:focus{
+    border: 2px solid black;
+    box-shadow: none;
+    width: 384px;
+}
+input#input-mid{
+    height: 50px;
+    
+
+}
+#input-mid:focus{
+    box-shadow: none;
+    border-color: gray;
+    background-color: #e1dddc;
+}
+#input-mid:hover{
+    background-color: #e1dddc;
+}
+#navbar{
+    background-color: white;
+}
+
+.height-53{
+    height: 53px;
+}
+
+.mt-53{
+    margin-top: 70px;
+}
+.fs-12{
+    font-size: 12px;
+}
+ul>li.nav-item{
+    margin-right: -20px;
+    min-width: 89px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fw-700{
+    font-weight: 700;
+}
+
+.fs-sm{
+    font-size: small;
+}
+.fs-lg{
+    font-size: large;
+}
+.blue{
+    color: blue;
+}
+#input-mid{
+    background: url(assets/images/pen-to-square-regular.svg) no-repeat scroll 7px 15px;
+    background-size: 20px;
+    padding-left: 30px;
+    opacity: 0.7;
+    
+}
+button.mediatext{
+    border:none;
+    background-color: #ffffff;
+    padding: 10px 20px;
+
+    
+}
+button.mediatext:hover{
+    background-color:#f2f2f2;
+    border-radius: 15px;
+
+}
+button.ref{
+    background-color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    opacity: .7;
+    
+
+}
+button.ref:hover{
+    background-color:#f2f2f2;
+    border-radius: 10px;
+    
+    
+
+}
+.fs-md{
+    font-size: medium;
+
+}
+.fw-lght{
+    font-weight: 100;
+}
+button.right-side{
+    border: 1px solid #f2f2f2;
+    background-color: white;
+    padding: 8px 15px;
+}
+
+button.right-side:hover{
+    background-color: #f2f2f2f2;
+}
+div.card-title>ol>li{
+    font-weight: 700;
+    font-size: small;
+    padding-right: 7px;
+}
+div.about-me>span>a{
+    color: gray;
+}
+div.about-me>div>a{
+    color: gray;
+}
+
+
+
