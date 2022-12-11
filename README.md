@@ -12,7 +12,7 @@ Merhaba, ben Medetcan, Aslen Makine Mühendisi olsam da bilgisayar, bilgisayar b
 ---
 Proje örnek görsel:
 
-![proje-örnek-sunum-gif](https://github.com/medetcandiler/Medium-Clone-Project/blob/main/mediumgift.gif)
+![proje-örnek-sunum-gif](https://github.com/medetcandiler/My-Linkedin-Clone-Project/blob/main/Ads%C4%B1z%20tasar%C4%B1m.gif)
 
 ---
 
